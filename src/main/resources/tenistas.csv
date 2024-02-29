@@ -1,0 +1,21 @@
+uuid;nombre;ranking;fechaNacimiento;anyoProfesional;altura;peso;manoDominante;tipoReves;pais;entrenadores;titulos;ganancias
+4fa2970d-e4a8-4b66-84e8-98c428f99620;Novak Djokovic;1;1987-05-22;2003;188;77;Right-handed;Two-Handed;Serbia;Goran Ivanisevic;98;181599018
+86d1ad91-91e2-4156-bb65-8a435ad33d22;Carlos Alcaraz;2;2003-05-05;2018;183;74;Right-handed;Two-Handed;Spain;Juan Carlos Ferrero;12;27477147
+64dc0e1e-4ddb-4057-a14b-40569a56b984;Jannik Sinner;3;2001-08-16;2018;188;76;Right-handed;Two-Handed;Italy;Simone Vagnozzi,Darren Cahill;12;19579723
+89158952-6e42-4300-8305-c69a2db04b5e;Daniil Medvedev;4;1996-02-11;2014;198;83;Right-handed;Two-Handed;Russia;Gilles Cervara;20;39301567
+489609cd-fcf6-493e-af95-c1314f82c1b4;Andrey Rublev;5;1997-10-20;2014;188;75;Right-handed;Two-Handed;Russia;Fernando Vicente,Alberto Martin;15;22171876
+768f65a7-0ad5-4962-9228-2cd96fd515ab;Alexander Zverev;6;1997-04-20;2013;198;90;Right-handed;Two-Handed;Germany;Alexander Zverev Sr.;21;39989255
+2a6073c1-347b-4d2d-9a19-042988384bc8;Holger Rune;7;2003-04-29;2020;188;77;Right-handed;Two-Handed;Denmark;Patrick Mouratoglou,Kenneth Carlsen;4;8195996
+799f6f73-2484-465e-9ea1-2ea0546bd406;Hubert Hurkacz;8;1997-02-11;2015;196;81;Right-handed;Two-Handed;Poland;Craig Boynton;7;14495520
+4fb0d940-e74b-4603-a274-2429b88a6a97;Alex de Minaur;9;1999-02-17;2015;183;69;Right-handed;Two-Handed;Australia;Adolfo Gutierrez;7;12072381
+71bfed61-d2f7-4995-9a2b-820e3e84dfaf;Taylor Fritz;10;1997-10-28;2015;196;86;Right-handed;Two-Handed;United States;Michael Russell,Paul Annacone;7;14833618
+44860d09-7ae6-40f7-9eb6-d2448539bce6;Casper Ruud;11;1998-12-22;2015;183;81;Right-handed;Two-Handed;Norway;Christian Ruud,Pedro Clar;10;17122401
+6b126d15-6e20-46ea-9997-f016af31ed18;Stefanos Tsitsipas;12;1998-08-12;2016;193;90;Right-handed;One-Handed;Greece;Apostolos Tsitsipas;10;29136220
+65355648-12bb-44e5-a714-27975845f406;Grigor Dimitrov;13;1991-05-16;2008;191;81;Right-handed;One-Handed;Bulgaria;Daniel Vallverdu,Jamie Delgado;9;25594250
+637f80d2-69ab-4c1e-a221-0be469610150;Tommy Paul;14;1997-05-17;2015;185;82;Right-handed;Two-Handed;United States;Brad Stine;2;7005117
+10f216fd-607e-4194-ab4c-da49ca29acd2;Karen Khachanov;15;1996-05-21;2013;198;87;Right-handed;Two-Handed;Russia;Jose Clavet,Vedran Martic;6;15736212
+e27179d5-da86-4530-986d-24e29d8ce88c;Frances Tiafoe;16;1998-01-20;2015;188;86;Right-handed;Two-Handed;United States;Diego Moyano;3;10406491
+740df055-21b8-4131-a940-16f844212ced;Ben Shelton;17;2002-10-09;2022;193;88;Left-handed;Two-Handed;United States;Bryan Shelton;1;3067227
+223ce949-fbb8-4a6f-9169-13f975a20061;Ugo Humbert;18;1998-06-26;2016;188;73;Left-handed;Two-Handed;France;Jeremy Chardy;5;5422457
+e4a025f5-34f4-40ac-ab86-3d8432dbeb36;Adrian Mannarino;19;1988-06-29;2004;180;79;Left-handed;Two-Handed;France;Erwann Tortuyaux;5;12018397
+d106c08c-4fcd-476b-87fc-22ec4714f59b;Francisco Cerundolo;20;1998-08-13;2018;185;80;Right-handed;Two-Handed;Argentina;Kevin Konfederak;2;4145046
